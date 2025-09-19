@@ -6,9 +6,10 @@ Curso: Inteligencia Artificial I - 2025-2 C1
 
 Equipo: Ingeniebrios
 
-Integrantes: Diego Andres Barragan Ruiz 2211827
-             Michael Andres Fabre Beltran 2191119
-             Alexander Sandoval
+Integrantes: 
+Diego Andres Barragan Ruiz 2211827
+Michael Andres Fabre Beltran 2191119
+David Alexander Sandoval Suarez 2205088
 
 
 
