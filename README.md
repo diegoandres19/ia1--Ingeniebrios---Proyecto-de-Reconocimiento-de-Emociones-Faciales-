@@ -23,7 +23,7 @@ LINK: https://www.kaggle.com/datasets/sujaykapadnis/emotion-recognition-dataset?
 El problema consiste en reconocer de manera automática las emociones humanas a partir de imágenes faciales. Esto es importante porque las emociones son importantes em la interacción social y la comunicación no verbal. El desarrollo de sistemas capaces de identificar emociones tiene aplicaciones en áreas como salud mental, educación, seguridad y atención al cliente.
 
 
-La fase de EDA permite comprender las características principales del dataset, identificar posibles desbalances en las clases de emociones, verificar la calidad de las imágenes y obtener información descriptiva que guíe las decisiones de preprocesamiento y modelado.
+La fase de EDA nos permitio llegar a comprender las características principales del dataset, identificar posibles desbalances en las clases de emociones, verificar la calidad de las imágenes y obtener información que nos ayude a tomar las decisiones de preprocesamiento y modelado que nos sean pertinentes.
 
 
 Métricas como la distribución de imágenes por clase, el conteo de ejemplos disponibles para cada emoción y la calidad de las imágenes serán parte del trabajo del dataset. 
