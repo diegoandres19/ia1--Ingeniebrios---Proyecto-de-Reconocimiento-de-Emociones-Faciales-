@@ -15,7 +15,7 @@ Integrantes:
 
 Se utilizará el dataset Facial Emotion Recognition Image Dataset disponible en Kaggle
 Contiene 15500 imágenes clasificadas en 7 emociones (enojado, asustado, feliz, triste, neutral, sorprendido, disgusto). 
-LINK: https://colab.research.google.com/drive/1KQUgMiHoQp7-Lb3-qGoSRdP2vB5sHXKu
+LINK: https://www.kaggle.com/datasets/sujaykapadnis/emotion-recognition-dataset?resource=download
 
 
 
@@ -39,5 +39,9 @@ El problema fue elegido porque  es interesenta comprender como tal las emociones
 Datos utilizados 
 Se usó el dataset Facial Emotion Recognition Image Dataset con imágenes de rostros humanos, organizadas en formato tabular con etiquetas categóricas de emociones.
 
-Información contenida en los datos (máx. 100 palabras)
+
+
+Información contenida en los datos 
 El dataset contiene 15500 imágenes clasificadas en siete categorías emocionales: enojo, disgusto, miedo, felicidad, tristeza, sorpresa y neutralidad. Cada fila incluye la etiqueta de la emoción y la representación en píxeles de la imagen. La distribución de clases es desbalanceada, con mayor número de ejemplos en unas que otras. Este análisis inicial es clave para determinar estrategias de balanceo y asegurar un entrenamiento más justo de los modelos de clasificación.
+
+Link primer colab: https://colab.research.google.com/drive/1KQUgMiHoQp7-Lb3-qGoSRdP2vB5sHXKu
