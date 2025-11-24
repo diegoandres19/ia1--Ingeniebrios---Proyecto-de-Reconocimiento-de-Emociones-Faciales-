@@ -44,6 +44,8 @@ Se usó el dataset Facial Emotion Recognition Image Dataset con imágenes de ros
 Información contenida en los datos 
 El dataset contiene 15500 imágenes clasificadas en siete categorías emocionales: enojo, disgusto, miedo, felicidad, tristeza, sorpresa y neutralidad. Cada fila incluye la etiqueta de la emoción y la representación en píxeles de la imagen. La distribución de clases es desbalanceada, con mayor número de ejemplos en unas que otras. Este análisis inicial es clave para determinar estrategias de balanceo y asegurar un entrenamiento más justo de los modelos de clasificación.
 
-Link primer colab: https://colab.research.google.com/drive/1KQUgMiHoQp7-Lb3-qGoSRdP2vB5sHXKu
+Link primer entrega  Notebook de análisis de datos : https://colab.research.google.com/drive/1KQUgMiHoQp7-Lb3-qGoSRdP2vB5sHXKu
 
-Link segundo colab https://colab.research.google.com/drive/1m70jiruAr9Kw7PiKQHrGvui5Zt2wKUy8?usp=sharing
+Link segunda entrega Notebook de aprendizaje supervisado : https://colab.research.google.com/drive/1m70jiruAr9Kw7PiKQHrGvui5Zt2wKUy8?usp=sharing
+
+Link tercera entrega Notebook de aprendizaje no supervisado / reducción de dimensionalidad : https://colab.research.google.com/drive/1DKs-OFI5xJ7Jrnz_zvIrRuD8pQEgE0nY?usp=sharing
