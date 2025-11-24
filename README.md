@@ -2,6 +2,7 @@
 Proyecto de Reconocimiento de Emociones Faciales
 
 
+
 Curso: Inteligencia Artificial I - 2025-2 C1
 
 Equipo: Ingeniebrios
