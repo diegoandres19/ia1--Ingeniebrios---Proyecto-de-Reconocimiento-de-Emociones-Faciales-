@@ -57,3 +57,5 @@ Link tercera entrega Notebook de aprendizaje no supervisado / reducción de dime
 Link Ultima entrega  Notebook integrando todo: https://colab.research.google.com/drive/1iO7OmfffFw6m49djJ3ggN3QLLcL3LdP_?usp=sharing
 
 LINK CON LAS DIAPOSITIVAS: https://gamma.app/docs/Proyecto-de-Reconocimiento-de-Emociones-Faciales-7h9pnrs70g9k8ac
+
+LINK VIDEO: https://drive.google.com/file/d/1vjfDV1frtb-Lt0moPjowbymeE6ZsCuKV/view?usp=sharing
